@@ -1,0 +1,15 @@
+# 工作区特定文件（非项目内容）
+.codegraph/
+.codebuddy/
+.reasonix/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.sublime-*
