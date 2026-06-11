@@ -1,6 +1,6 @@
 # indie-product-direction
 
-[![skills.sh](https://skills.sh/b/你的用户名/indie-product-direction)](https://skills.sh/你的用户名/indie-product-direction)
+[![skills.sh](https://skills.sh/b/JackXhl/indie-product-direction)](https://skills.sh/JackXhl/indie-product-direction)
 
 独立开发方向决策技能包。
 
@@ -13,13 +13,13 @@
 ### Claude Code
 
 ```bash
-/plugin add https://github.com/你的用户名/indie-product-direction
+/plugin add https://github.com/JackXhl/indie-product-direction
 ```
 
 ### skills.sh
 
 ```bash
-npx skills add https://github.com/你的用户名/indie-product-direction
+npx skills add https://github.com/JackXhl/indie-product-direction
 ```
 
 ### 手动
