@@ -34,28 +34,25 @@ npx skills add https://github.com/JackXhl/indie-product-direction
 
 **真需求公式：** 痛点 × 高频 × 付费
 
-**完整流程：**
-
 ```
 Phase 1 四大信号源
-  ├── Reddit — 搜用户抱怨（"alternative to" / "too expensive"）
+  ├── Reddit — 搜用户抱怨
   ├── Product Hunt — 看排名 10-50 的中部产品
-  ├── Google Trends — 看长尾词斜率，找萌芽需求
+  ├── Google Trends — 看长尾词斜率
   └── 评论挖掘 — G2/Capterra/App Store 差评中找切口
 
-Phase 2 五层漏斗
-  ├── 快速排除 → 按问题分类 → 找重复信号 → 五维打分 → 7天验证
-  └→ 输出：1 个可验证的产品假设
+Phase 2 五层漏斗 → 1 个可验证的产品假设
 
 Phase 3 纵深分析
   ├── 竞品分析（三圈扫描 + 三线拆解 + SEO/GEO + 定位框架）
   ├── 市场拥挤度（三层法 + 六种切口）
   └── 付费意愿（强弱信号 + 筛选公式）
 
-工具箱
-  ├── 验证自查清单
-  ├── 竞品 Battlecard 模板
-  └── 评论挖掘输出模板
+references/
+  ├── checklist.md — 验证自查清单
+  ├── battlecard.md — 竞品 Battlecard 模板
+  ├── review-mining.md — 评论挖掘输出模板
+  └── positioning.md — 定位框架参考
 ```
 
 ---
@@ -78,6 +75,6 @@ Phase 3 纵深分析
 
 ## 参考
 
-- [anthropics/skills](https://github.com/anthropics/skills) — Agent Skills 标准实现
+- [anthropics/skills](https://github.com/anthropics/skills) — Agent Skills 标准
 - [skills.sh](https://www.skills.sh) — Agent Skills 目录
 - Flora 公众号系列文章（共 8 篇）
