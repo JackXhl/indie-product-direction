@@ -1,4 +1,4 @@
-# indie-product-direction
+﻿# indie-product-direction
 
 [![skills.sh](https://skills.sh/b/JackXhl/indie-product-direction)](https://skills.sh/JackXhl/indie-product-direction)
 
@@ -37,19 +37,25 @@ npx skills add https://github.com/JackXhl/indie-product-direction
 **完整流程：**
 
 ```
-Phase 1 信号发现
+Phase 1 四大信号源
   ├── Reddit — 搜用户抱怨（"alternative to" / "too expensive"）
   ├── Product Hunt — 看排名 10-50 的中部产品
-  └── Google Trends — 看长尾词斜率，找萌芽需求
+  ├── Google Trends — 看长尾词斜率，找萌芽需求
+  └── 评论挖掘 — G2/Capterra/App Store 差评中找切口
 
 Phase 2 五层漏斗
   ├── 快速排除 → 按问题分类 → 找重复信号 → 五维打分 → 7天验证
   └→ 输出：1 个可验证的产品假设
 
 Phase 3 纵深分析
-  ├── 竞品分析（三类竞品 + 三线拆解）
+  ├── 竞品分析（三圈扫描 + 三线拆解 + SEO/GEO + 定位框架）
   ├── 市场拥挤度（三层法 + 六种切口）
   └── 付费意愿（强弱信号 + 筛选公式）
+
+工具箱
+  ├── 验证自查清单
+  ├── 竞品 Battlecard 模板
+  └── 评论挖掘输出模板
 ```
 
 ---
